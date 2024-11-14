@@ -7,7 +7,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1. Collect Data
 Gather student data (e.g., marks, skills) and their placement status (placed or not placed).
 2. Prepare Data
@@ -25,10 +25,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 
 
 Developed by: Hemadharshini M
-
-
 RegisterNumber: 212222040053
-
 
  ```
 import pandas as pd
